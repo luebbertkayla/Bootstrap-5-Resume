@@ -1,0 +1,72 @@
+
+.gradient-custom {
+    background: linear-gradient(to left, rgba(94, 231, 223, 0.25), rgba(180, 144, 202, 0.75))
+}
+
+.rounded-circle {
+    width: 250px;
+    height: 200px;
+    border-radius: 50%;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.col-md-9 {
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+.col-md {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+svg, img {
+    margin-right: 7px;
+    margin-bottom: 1px;
+}
+
+.work-text {
+    color: rgba(102, 23, 124, 0.65);
+    text-align: left;
+    font-weight: bold;
+}
+
+p {
+    text-align: left;
+}
+
+.mb-5 {
+    text-align: left;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+
+
+
+.text-light {
+    text-align: left;
+    padding-left: 10px;
+    font-weight: bold;
+}
+
+.progress {
+    margin-left: 30px;
+}
+
+.bg {
+    background: linear-gradient(to right, rgba(5, 5, 5, 0.75), rgba(180, 144, 202, 0.75));
+}
+
+.btn {
+    margin-left: 55px;
+}
+
+.card-title, .card-text {
+    text-align: center;
+}
+
+
+ 
+
